@@ -1,5 +1,5 @@
 # Telegram_bot
-A simple example of a telegram chatbot with a neural network as the engine.
+A simple example of a telegram chatbot with a neural network as an engine.
 
 ### Overview
 This is a simple first attempt of an telegram chatbot with a 2 layer CNN network running at its core. It is trained on simple words of affection and its sentiments(tags). It is then trained to return a variety of prefix responses based on the sentiment(tags). The trained data can be found in src\intents.json
