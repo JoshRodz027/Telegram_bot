@@ -7,7 +7,7 @@ This is a simple first attempt of an telegram chatbot with a 2 layer CNN network
 ### Prerequisite
 You need to generate a token for your own telegram bot. You can do this by talking to BotFather telegram's bot and creating a new bot!
 ### To Run
-To run it , please input your telegram token inside the resoruces\config.cfg file and then run main.py.
+To run it , please input your telegram token inside the resources\config.cfg file and then run main.py.
 
 You can include or change/add/edit src\intents.json and then run src\training.py to train the model on your own set of words with tags.
 
