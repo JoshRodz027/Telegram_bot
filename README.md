@@ -30,5 +30,5 @@ NOTE: I have future plans to clean this up and create a model class that handles
 2. Create a proper training data ingestion pipeline 
     - Takes in a txt file and converts it to a json format. User might have to fill up/group bag of words into tags
     - Find an automated solution for this.
-3. Experiement with more complex models as the engine
+3. Experiment with more complex models as the engine
     - Create a new model ingestion pattern that can simply plug and play different models.
