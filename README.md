@@ -18,10 +18,10 @@ Model training is done with the src\intents.json as the input data and src\train
 Not much data cleaning is done for the training stage. Simply running src\training.py would create a .h5 model in the resources folder.
 
 NOTE: I plan to create a more robust data ingestion pipeline that can be used for training data and test data.
-#### Inference 
+#### Inference/Predict
 The data preprocess for prediction,model instantiation and inference is done in src\chatbot.py.
 
-NOTE: I have future plans to clean this up and creat a model class that handles this and training together under one model class
+NOTE: I have future plans to clean this up and create a model class that handles this and training together under one model class
 
 
 ### FUTURE PLANS
