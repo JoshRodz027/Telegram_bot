@@ -5,7 +5,6 @@
                 "hello",
                 "hey",
                 "hi",
-                "hi poopy",
                 "good day",
                 "morning",
                 "greetings",
@@ -19,7 +18,7 @@
                 "Hi dearie",
                 "How are you my love?",
                 "morning <3",
-                "Hi Sayang",
+                "Hello!?",
                 "Whats up babe?"
             ]
         },
@@ -39,30 +38,24 @@
             ],
             "response": [
                 "bye!",
-                "bye dearie",
+                "bye dear",
                 "see you soon",
                 "nights <3",
-                "take care dearie",
+                "take care dear",
                 "take care!",
                 "miss you",
                 "Have a nice day",
-                "night sayang",
-                "bye sayang",
+                "nights!",
+                "bye bye!",
                 "love you, take care ok?"
             ]
         },
         {
             "tag": "endearment",
             "patterns": [
-                "poopy!",
-                "poopy",
-                "poop",
                 "love you",
-                "joshu",
-                "poopyjbot",
                 "idiot",
-                "sayang",
-                "chou chou",
+                "sayang",,
                 "smelly",
                 "muacks",
                 "meow",
@@ -70,20 +63,17 @@
                 "love you la",
                 "love you baby",
                 "love u baby",
-                "poopy",
                 "hmfp"
             ],
             "response": [
-                "yes, sloffee?",
-                "sloffee meow",
+                "meow",
                 "yes sayang?",
-                "yes, chou chou",
+                "yes?",
                 "muacks",
                 "sayang!",
                 "love you babe",
                 "I love you",
                 "awww",
-                "sloffee sloffee",
                 "meow"
             ]
         },
@@ -98,8 +88,8 @@
             ],
             "response": [
                 "Happy to help love!",
-                "Any time sayang!",
-                "My pleasure sloffee"
+                "Any time !",
+                "My pleasure "
             ]
         },
         {
@@ -121,10 +111,10 @@
                 "whatever",
                 "tell me whats wrong?",
                 "do you really have to resort to saying that?",
-                "aww sloffee angsty?",
+                "aww angsty , much?",
                 "hurtful much",
                 "meanie!",
-                "evil sloffee",
+                "evil",
                 "hmfp",
                 "rudey!"
             ]
